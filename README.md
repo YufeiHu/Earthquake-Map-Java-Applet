@@ -1,5 +1,6 @@
 # Earthquake-Map-Java-Applet
 
+![screenshot](https://raw.githubusercontent.com/YufeiHu/CS143-Database-Systems/master/demo.png) 
 This is a skeleton to use Unfolding in Eclipse as well as some starter
 code for the Object Oriented Programming in Java course offered by 
 UC San Diego through Coursera.
